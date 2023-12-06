@@ -13,6 +13,6 @@
         "National Institutes of Health NS047293",
         "Swartz Foundation"
     ],
-    "HowToAcknowledge": "Cite this paper: https://pubmed.ncbi.nlm.nih.gov/15927487/ and consider including the following message: 'This data was obtained from the OpenNeuro database. Its accession number is ds004117.'",
+    "HowToAcknowledge": "Cite this paper: https://doi.org/10.3390/s23198214 and consider including the following message: 'This data was obtained from the OpenNeuro database. Its accession number is ds004784.'",
     "DatasetDOI": "doi:10.18112/openneuro.ds004117.v1.0.1"
 }
