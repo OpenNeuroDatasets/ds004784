@@ -1,24 +1,2 @@
-participant_id	age	year_of_birth	sex	subject_notes
-sub-001	20	1982	n/a	n/a
-sub-002	21	1982	F	"Other than a few channels (T8,TP9,TP7) EEG was clean; subject's eyes was watering and bothering her"
-sub-003	26	1976	n/a	n/a
-sub-004	21	1981	n/a	n/a
-sub-005	28	1974	F	"No feedback events in any trial."
-sub-006	32	1970	n/a	n/a
-sub-007	21	1981	n/a	n/a
-sub-008	23	1979	n/a	n/a
-sub-009	34	1968	n/a	n/a
-sub-010	40	1962	n/a	n/a
-sub-011	22	1980	n/a	n/a
-sub-012	19	1984	M	n/a
-sub-014	19	1984	F	"Subject reported that her strategy was to rehearse mentally. Subject reported that every now and then she'd press the wrong button by mistake. Subject stayed alert and awake throughout the task, but said it was really long."
-sub-015	24	1979	M	"P6 and P8 looked open but they weren't so we stopped eeg, then pressed record again and eeg was almost solid noise, tried regrounding box but nothing worked, then spontaneously it got better ten minutes later."
-sub-016	19	1984	M	"Tape added to electrical shielding on cord near scalp of scalp cap to insulate it from grounding electrical signals from the occipital and parietal areas, frontals shift in and out of spikeyness, short2 frontals better/good in the beginning, eyes- graph shifts up and down a lot for frontals, short #3- good"
-sub-017	19	1984	M	EEG looks good
-sub-018	20	1983	F	"Subject was pretty tired, channel p04 was noisy and off scale during the first EEG recording"
-sub-019	21	1982	F	"All channels are clean except frontals, frontal noises due to muscles controlling eyes for if she closes them or looks down the noise goes away, subject stated task was long and boring"
-sub-020	19	1984	F	"Clean eeg for the most part, subject said task was fun"
-sub-021	22	1981	M	"For second recording P2, P3 were flat lining so we pushed in connectors at input board, and the problem was resolved; for the third recording H8 was wandering; subject says strategy was verbal rehearsal"
-sub-022	25	1978	M	"Subject reports that he was correct on most trials, his strategy was to either repeat the letters to himself or makes a sentence; for the first recording we forgot to ground headbox to amp so there is a lot of 60Hz noise; much better after grounding in second recording, otherwise eeg is very stable, cut second recording short because FC2 was bad and needed gel, recording 4 had really good EEG, during recording 3 F6 started getting noisy so added gel, during recording 4 F6 wasnoisy again, subject usually takes a lot of time between trials"
-sub-023	25	1978	M	n/a
-sub-024	19	1984	n/a	n/a
+participant_id	gender	age	group
+sub-001	n/a	n/a	10Brain
