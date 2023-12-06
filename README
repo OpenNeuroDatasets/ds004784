@@ -1,8 +1,8 @@
 This phantom experiment contains data collected from a an 
 electrically conductive head phantom. Six conditions were 
-tested: Brain-only [no artifacts], or with eye artifacts, 
-or jaw muscle, or neck muscle, or motion 
-artifacts or all artifacts simultaneously present. 
+tested: Brain-only [no artifacts], or  brain with eye, 
+jaw muscle, neck muscle, or motion artifacts 
+artifacts present, or with all artifacts simultaneously present. 
 Also contained is a copy of the iCanClean plugin for EEGLAB 
 and a set of other helpful scripts that enable parameter sweep 
 testing and validation with ground truth knowledge of the brain 
