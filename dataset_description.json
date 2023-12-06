@@ -3,8 +3,11 @@
   "ReferencesAndLinks": [
     "https://xxxxxxxxxxxxxxxxx"
   ],
+  "Authors": [
+    "Ryan J. Downey",
+    "Daniel P. Ferris"
+  ],
   "License": "",
-  "Authors": [""],
   "BIDSVersion": "1.8.0",
   "HEDVersion": "8.1.0"
 }
