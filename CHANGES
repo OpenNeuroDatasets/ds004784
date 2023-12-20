@@ -1,3 +1,5 @@
+1.0.3 2023-12-20
+  - Removed extra folder that was accidentally included (derivatives -> eeglab)
 1.0.2 2023-12-20
   - Added CAD files related to 3D design of the head phantom, so others can replicate the setup. Inludes STEP, STL, and SolidWorks files. See derivatives->CAD
 1.0.1 2023-12-20
