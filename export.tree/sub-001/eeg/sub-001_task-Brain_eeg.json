@@ -1,0 +1,18 @@
+{
+  "InstitutionAddress": "1275 Center Drive, Gainesville, FL 32611 USA",
+  "InstitutionName": "University of Florida",
+  "InstitutionalDepartmentName": "Biomedical Engineering",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "ActiveTwo",
+  "TaskName": "mixed",
+  "EEGChannelCount": 128,
+  "EMGChannelCount": 8,
+  "MiscChannelCount": 128,
+  "EEGReference": "CMS",
+  "RecordingType": "continuous",
+  "RecordingDuration": 357,
+  "SamplingFrequency": 512,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}
