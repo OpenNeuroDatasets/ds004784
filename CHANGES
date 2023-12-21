@@ -1,3 +1,5 @@
+1.0.4 2023-12-21
+  - Updated eegplugin_iCanClean.m to return version number to be compliant with eeglab plugin standards
 1.0.3 2023-12-20
   - Removed extra folder that was accidentally included (derivatives -> eeglab)
 1.0.2 2023-12-20
